@@ -1,0 +1,1 @@
+package com.icebreakeros.boot.hbase;
